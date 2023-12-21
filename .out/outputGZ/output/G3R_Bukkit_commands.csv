@@ -1,0 +1,1216 @@
+---------------------- Datenspeicherung ------------------------
+- Grund: Erkennen von Fehlern, welche vom Spieler oder während seiner Spielzeit auftraten
+- Löschung der Daten: voraussichtlich innerhalb 30 Tagen
+---------------------- Datenspeicherung ------------------------
+SERVER COMMAND:[20:56:31] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[16:52:43] [Server thread/INFO]: G3R_Bukkit issued server command: /banlist
+SERVER COMMAND:[16:56:05] [Server thread/INFO]: G3R_Bukkit issued server command: /chat
+SERVER COMMAND:[16:56:13] [Server thread/INFO]: G3R_Bukkit issued server command: /schedule
+SERVER COMMAND:[18:19:02] [Server thread/INFO]: G3R_Bukkit issued server command: /fly
+SERVER COMMAND:[18:19:05] [Server thread/INFO]: G3R_Bukkit issued server command: /fly
+SERVER COMMAND:[17:39:55] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[20:43:32] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich mache nach der arbeit immer mal biss was am event plugin
+SERVER COMMAND:[20:46:02] [Server thread/INFO]: G3R_Bukkit issued server command: /r dann werden die spieler gekickt und entfernt und der letzte darf die items behalten
+SERVER COMMAND:[20:47:48] [Server thread/INFO]: G3R_Bukkit issued server command: /r sollte auch gehen
+SERVER COMMAND:[21:03:04] [Server thread/INFO]: G3R_Bukkit issued server command: /r musst mal schauen
+SERVER COMMAND:[21:13:20] [Server thread/INFO]: G3R_Bukkit issued server command: /r ja :D
+SERVER COMMAND:[21:13:28] [Server thread/INFO]: G3R_Bukkit issued server command: /r bin wieder mal am tele xD
+SERVER COMMAND:[21:13:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r aber vielleicht gehts auch erstmal via meinem link
+SERVER COMMAND:[21:14:22] [Server thread/INFO]: G3R_Bukkit issued server command: /r die video aufnahme
+SERVER COMMAND:[21:17:13] [Server thread/INFO]: G3R_Bukkit issued server command: /r bin mal kurz weg
+SERVER COMMAND:[21:34:30] [Server thread/INFO]: G3R_Bukkit issued server command: /mail
+SERVER COMMAND:[21:36:19] [Server thread/INFO]: G3R_Bukkit issued server command: /r ty
+SERVER COMMAND:[21:21:23] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:23:21] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[21:23:28] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:24:25] [Server thread/INFO]: G3R_Bukkit issued server command: /r tach xD
+SERVER COMMAND:[21:24:37] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[21:24:48] [Server thread/INFO]: G3R_Bukkit issued server command: /up
+SERVER COMMAND:[21:24:52] [Server thread/INFO]: G3R_Bukkit issued server command: /up 5
+SERVER COMMAND:[21:24:59] [Server thread/INFO]: G3R_Bukkit issued server command: /up 50 Hertzhaft
+SERVER COMMAND:[21:25:43] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich denke vielleicht wird er zu breit
+SERVER COMMAND:[21:29:14] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[21:35:13] [Server thread/INFO]: G3R_Bukkit issued server command: /r guck
+SERVER COMMAND:[21:37:17] [Server thread/INFO]: G3R_Bukkit issued server command: /r bzw der eingang ist nur anders gebaut
+SERVER COMMAND:[21:38:12] [Server thread/INFO]: G3R_Bukkit issued server command: //cut
+SERVER COMMAND:[21:38:16] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:38:28] [Server thread/INFO]: G3R_Bukkit issued server command: /r xd
+SERVER COMMAND:[21:54:58] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[21:55:09] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:22] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:26] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:31] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[21:55:46] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:49] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[22:01:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r was ist passoer
+SERVER COMMAND:[22:03:49] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[22:03:58] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:04:13] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:04:22] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:07:11] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[22:07:15] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:07:20] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:37:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[22:37:31] [Server thread/INFO]: G3R_Bukkit issued server command: /r wollte dir nur das glas geben D
+SERVER COMMAND:[22:41:35] [Server thread/INFO]: G3R_Bukkit issued server command: /r iwie schon D
+SERVER COMMAND:[22:41:56] [Server thread/INFO]: G3R_Bukkit issued server command: /r dezent
+SERVER COMMAND:[22:42:10] [Server thread/INFO]: G3R_Bukkit issued server command: /up 2
+SERVER COMMAND:[22:42:56] [Server thread/INFO]: G3R_Bukkit issued server command: /r was genau
+SERVER COMMAND:[22:44:46] [Server thread/INFO]: G3R_Bukkit issued server command: /r das sollte passen
+SERVER COMMAND:[23:02:24] [Server thread/INFO]: G3R_Bukkit issued server command: /r wow xD
+SERVER COMMAND:[23:10:23] [Server thread/INFO]: G3R_Bukkit issued server command: /r ach so
+SERVER COMMAND:[23:10:25] [Server thread/INFO]: G3R_Bukkit issued server command: /r xd
+SERVER COMMAND:[23:10:33] [Server thread/INFO]: G3R_Bukkit issued server command: /r ok
+SERVER COMMAND:[23:15:20] [Server thread/INFO]: G3R_Bukkit issued server command: /r wieso
+SERVER COMMAND:[23:17:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r ok
+SERVER COMMAND:[21:21:23] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:23:21] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[21:23:28] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:24:25] [Server thread/INFO]: G3R_Bukkit issued server command: /r tach xD
+SERVER COMMAND:[21:24:37] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[21:24:48] [Server thread/INFO]: G3R_Bukkit issued server command: /up
+SERVER COMMAND:[21:24:52] [Server thread/INFO]: G3R_Bukkit issued server command: /up 5
+SERVER COMMAND:[21:24:59] [Server thread/INFO]: G3R_Bukkit issued server command: /up 50 Hertzhaft
+SERVER COMMAND:[21:25:43] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich denke vielleicht wird er zu breit
+SERVER COMMAND:[21:29:14] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[21:35:13] [Server thread/INFO]: G3R_Bukkit issued server command: /r guck
+SERVER COMMAND:[21:37:17] [Server thread/INFO]: G3R_Bukkit issued server command: /r bzw der eingang ist nur anders gebaut
+SERVER COMMAND:[21:38:12] [Server thread/INFO]: G3R_Bukkit issued server command: //cut
+SERVER COMMAND:[21:38:16] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:38:28] [Server thread/INFO]: G3R_Bukkit issued server command: /r xd
+SERVER COMMAND:[21:54:58] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[21:55:09] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:22] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:26] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:31] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[21:55:46] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:55:49] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[22:01:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r was ist passoer
+SERVER COMMAND:[22:03:49] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[22:03:58] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:04:13] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:04:22] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:07:11] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[22:07:15] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:07:20] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:37:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[22:37:31] [Server thread/INFO]: G3R_Bukkit issued server command: /r wollte dir nur das glas geben D
+SERVER COMMAND:[22:41:35] [Server thread/INFO]: G3R_Bukkit issued server command: /r iwie schon D
+SERVER COMMAND:[22:41:56] [Server thread/INFO]: G3R_Bukkit issued server command: /r dezent
+SERVER COMMAND:[22:42:10] [Server thread/INFO]: G3R_Bukkit issued server command: /up 2
+SERVER COMMAND:[22:42:56] [Server thread/INFO]: G3R_Bukkit issued server command: /r was genau
+SERVER COMMAND:[22:44:46] [Server thread/INFO]: G3R_Bukkit issued server command: /r das sollte passen
+SERVER COMMAND:[23:02:24] [Server thread/INFO]: G3R_Bukkit issued server command: /r wow xD
+SERVER COMMAND:[23:10:23] [Server thread/INFO]: G3R_Bukkit issued server command: /r ach so
+SERVER COMMAND:[23:10:25] [Server thread/INFO]: G3R_Bukkit issued server command: /r xd
+SERVER COMMAND:[23:10:33] [Server thread/INFO]: G3R_Bukkit issued server command: /r ok
+SERVER COMMAND:[23:15:20] [Server thread/INFO]: G3R_Bukkit issued server command: /r wieso
+SERVER COMMAND:[23:17:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r ok
+SERVER COMMAND:[22:13:49] [Server thread/INFO]: G3R_Bukkit issued server command: /msg Hertzhaft hi
+SERVER COMMAND:[22:15:24] [Server thread/INFO]: G3R_Bukkit issued server command: /r musste mal java neustarten
+SERVER COMMAND:[22:15:47] [Server thread/INFO]: G3R_Bukkit issued server command: /r hab minecraft X geschlossen
+SERVER COMMAND:[22:22:35] [Server thread/INFO]: G3R_Bukkit issued server command: /r hier willst du doch die statuen reinhaben
+SERVER COMMAND:[22:43:15] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[22:46:03] [Server thread/INFO]: G3R_Bukkit issued server command: /r jo
+SERVER COMMAND:[22:48:02] [Server thread/INFO]: G3R_Bukkit issued server command: /r bsit du schon fertig
+SERVER COMMAND:[22:50:23] [Server thread/INFO]: G3R_Bukkit issued server command: /tp Hertzhaft
+SERVER COMMAND:[22:53:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r ups :D
+SERVER COMMAND:[22:53:46] [Server thread/INFO]: G3R_Bukkit issued server command: /r das waren zu viele packete D
+SERVER COMMAND:[22:54:37] [Server thread/INFO]: G3R_Bukkit issued server command: /msg Hertzhaft vom eigenen system rausgeworfen :D
+SERVER COMMAND:[22:55:17] [Server thread/INFO]: G3R_Bukkit issued server command: /r jetzt kommt das was ich schon immer wollte
+SERVER COMMAND:[22:56:27] [Server thread/INFO]: G3R_Bukkit issued server command: /msg Hertzhaft ich werde gekickt
+SERVER COMMAND:[22:57:05] [Server thread/INFO]: G3R_Bukkit issued server command: /r aber gleich mal den crash schutz getestet
+SERVER COMMAND:[22:57:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[22:58:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r auch nicht schlecht
+SERVER COMMAND:[23:00:10] [Server thread/INFO]: G3R_Bukkit issued server command: /r perfekt
+SERVER COMMAND:[23:00:52] [Server thread/INFO]: G3R_Bukkit issued server command: /r richtig
+SERVER COMMAND:[23:03:18] [Server thread/INFO]: G3R_Bukkit issued server command: /r was ein dickes ding
+SERVER COMMAND:[23:04:19] [Server thread/INFO]: G3R_Bukkit issued server command: //set minecraft:bedrock
+SERVER COMMAND:[23:04:47] [Server thread/INFO]: G3R_Bukkit issued server command: //set dirt
+SERVER COMMAND:[23:08:56] [Server thread/INFO]: G3R_Bukkit issued server command: /r klar
+SERVER COMMAND:[23:11:02] [Server thread/INFO]: G3R_Bukkit issued server command: /r xd
+SERVER COMMAND:[23:12:45] [Server thread/INFO]: G3R_Bukkit issued server command: /r ok
+SERVER COMMAND:[23:14:05] [Server thread/INFO]: G3R_Bukkit issued server command: /announce bye
+SERVER COMMAND:[14:01:30] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[14:01:52] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[18:09:03] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[18:09:12] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[18:10:23] [Server thread/INFO]: G3R_Bukkit issued server command: /spawn
+SERVER COMMAND:[20:36:30] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[20:37:16] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:31:06] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:44:01] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[22:57:42] [Server thread/INFO]: G3R_Bukkit issued server command: /rg i
+SERVER COMMAND:[23:00:48] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 4
+SERVER COMMAND:[23:00:59] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[20:24:18] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[20:52:37] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[10:35:51] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[11:09:56] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[13:01:35] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[14:22:57] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[20:39:19] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[20:55:03] [Server thread/INFO]: G3R_Bukkit issued server command: /pl
+SERVER COMMAND:[20:55:12] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[20:55:21] [Server thread/INFO]: G3R_Bukkit issued server command: /playerinfo
+SERVER COMMAND:[20:55:59] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[20:56:41] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:00:00] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:02:41] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[21:08:21] [Server thread/INFO]: G3R_Bukkit issued server command: /baninfo
+SERVER COMMAND:[21:09:30] [Server thread/INFO]: G3R_Bukkit issued server command: /unban
+SERVER COMMAND:[21:10:52] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[21:10:56] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:22:33] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[21:24:27] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:27:47] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[15:27:58] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:38:31] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:56:36] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[15:57:49] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat
+SERVER COMMAND:[16:00:40] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat test
+SERVER COMMAND:[16:01:19] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat test
+SERVER COMMAND:[16:01:27] [Server thread/INFO]: G3R_Bukkit issued server command: /pex reload
+SERVER COMMAND:[16:01:30] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat test
+SERVER COMMAND:[16:01:56] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat test
+SERVER COMMAND:[16:02:32] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat test
+SERVER COMMAND:[17:18:51] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[12:02:28] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[12:17:26] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[12:18:11] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[12:38:48] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[12:40:02] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[17:53:04] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[17:53:35] [Server thread/INFO]: G3R_Bukkit issued server command: /trade
+SERVER COMMAND:[17:53:37] [Server thread/INFO]: G3R_Bukkit issued server command: /trash
+SERVER COMMAND:[17:53:52] [Server thread/INFO]: G3R_Bukkit issued server command: /trash
+SERVER COMMAND:[17:53:57] [Server thread/INFO]: G3R_Bukkit issued server command: /trash
+SERVER COMMAND:[17:54:36] [Server thread/INFO]: G3R_Bukkit issued server command: /:jumpto
+SERVER COMMAND:[17:54:44] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[17:54:58] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[17:55:01] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[18:02:56] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat t
+SERVER COMMAND:[18:03:53] [Server thread/INFO]: G3R_Bukkit issued server command: /announce test
+SERVER COMMAND:[18:07:16] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[20:41:00] [Server thread/INFO]: G3R_Bukkit issued server command: /r Hi
+SERVER COMMAND:[20:41:14] [Server thread/INFO]: G3R_Bukkit issued server command: /r tp dich mal her
+SERVER COMMAND:[20:41:48] [Server thread/INFO]: G3R_Bukkit issued server command: /r fand ich uiemlich witzig
+SERVER COMMAND:[20:42:12] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich auch
+SERVER COMMAND:[20:42:44] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[20:43:01] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat da gibt es auch einen Teamchat D
+SERVER COMMAND:[20:43:27] [Server thread/INFO]: G3R_Bukkit issued server command: /r was genau meinst du
+SERVER COMMAND:[20:43:56] [Server thread/INFO]: G3R_Bukkit issued server command: /r das war beim ban plugin mit drin
+SERVER COMMAND:[20:45:18] [Server thread/INFO]: G3R_Bukkit issued server command: /r grund ist dann die zahl
+SERVER COMMAND:[20:47:23] [Server thread/INFO]: G3R_Bukkit issued server command: /r das stelle ich eben ein
+SERVER COMMAND:[20:48:47] [Server thread/INFO]: G3R_Bukkit issued server command: /r am trade habe ich auf cb auch gebastelt
+SERVER COMMAND:[20:50:36] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:24:54] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:25:46] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[21:25:53] [Server thread/INFO]: G3R_Bukkit issued server command: /v Hertzhaft
+SERVER COMMAND:[21:28:44] [Server thread/INFO]: G3R_Bukkit issued server command: /redstonedetector und essentials
+SERVER COMMAND:[21:28:48] [Server thread/INFO]: G3R_Bukkit issued server command: /r redstonedetector und essentials
+SERVER COMMAND:[21:31:04] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[21:41:26] [Server thread/INFO]: G3R_Bukkit issued server command: /r wie das Fensterglas einer Kirche
+SERVER COMMAND:[21:43:24] [Server thread/INFO]: G3R_Bukkit issued server command: /r habs noch nicht raus
+SERVER COMMAND:[21:47:00] [Server thread/INFO]: G3R_Bukkit issued server command: /r hier
+SERVER COMMAND:[21:47:47] [Server thread/INFO]: G3R_Bukkit issued server command: /r eben gings
+SERVER COMMAND:[21:51:12] [Server thread/INFO]: G3R_Bukkit issued server command: /r ban ging wohl nicht
+SERVER COMMAND:[21:51:26] [Server thread/INFO]: G3R_Bukkit issued server command: /ban Hertzhaft 1
+SERVER COMMAND:[21:51:36] [Server thread/INFO]: G3R_Bukkit issued server command: /unban Hertzhaft
+SERVER COMMAND:[21:51:56] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[21:52:07] [Server thread/INFO]: G3R_Bukkit issued server command: /playerinfo Hertzhaft
+SERVER COMMAND:[21:52:21] [Server thread/INFO]: G3R_Bukkit issued server command: /playerinfo Hertzhaft
+SERVER COMMAND:[21:53:15] [Server thread/INFO]: G3R_Bukkit issued server command: /v Hertzhaft
+SERVER COMMAND:[21:53:28] [Server thread/INFO]: G3R_Bukkit issued server command: /reports
+SERVER COMMAND:[21:54:35] [Server thread/INFO]: G3R_Bukkit issued server command: /r nicht schlecht :D
+SERVER COMMAND:[21:54:46] [Server thread/INFO]: G3R_Bukkit issued server command: /r richtig
+SERVER COMMAND:[21:57:26] [Server thread/INFO]: G3R_Bukkit issued server command: /r wie hattest du dir nun den cb spawn vorgestellt
+SERVER COMMAND:[22:01:36] [Server thread/INFO]: G3R_Bukkit issued server command: /r was
+SERVER COMMAND:[22:02:06] [Server thread/INFO]: G3R_Bukkit issued server command: /r mach bitt enichts kaputt
+SERVER COMMAND:[22:02:25] [Server thread/INFO]: G3R_Bukkit issued server command: /r habe kein backup
+SERVER COMMAND:[22:04:08] [Server thread/INFO]: G3R_Bukkit issued server command: /r guck mal xD
+SERVER COMMAND:[22:05:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r xd
+SERVER COMMAND:[22:06:23] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[22:07:00] [Server thread/INFO]: G3R_Bukkit issued server command: /r zu tisch bitte
+SERVER COMMAND:[22:08:26] [Server thread/INFO]: G3R_Bukkit issued server command: /r richtig
+SERVER COMMAND:[22:08:37] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich mach an der config weiter wenn ich auf klo war
+SERVER COMMAND:[22:31:42] [Server thread/INFO]: G3R_Bukkit issued server command: /r sieht gut aus
+SERVER COMMAND:[22:32:43] [Server thread/INFO]: G3R_Bukkit issued server command: /r nien
+SERVER COMMAND:[22:33:15] [Server thread/INFO]: G3R_Bukkit issued server command: /r warum das denn
+SERVER COMMAND:[22:34:02] [Server thread/INFO]: G3R_Bukkit issued server command: /r pos1 pos2 copy
+SERVER COMMAND:[22:34:32] [Server thread/INFO]: G3R_Bukkit issued server command: /r p1
+SERVER COMMAND:[22:34:40] [Server thread/INFO]: G3R_Bukkit issued server command: /r p2
+SERVER COMMAND:[22:35:11] [Server thread/INFO]: G3R_Bukkit issued server command: /r ah
+SERVER COMMAND:[22:37:26] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[22:37:47] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:38:32] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[22:38:44] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:38:50] [Server thread/INFO]: G3R_Bukkit issued server command: /r so
+SERVER COMMAND:[22:39:34] [Server thread/INFO]: G3R_Bukkit issued server command: /r vielleicht brauchst du es ja doch
+SERVER COMMAND:[22:46:44] [Server thread/INFO]: G3R_Bukkit issued server command: /r cool
+SERVER COMMAND:[22:48:14] [Server thread/INFO]: G3R_Bukkit issued server command: /r ja das ist eine gute idde
+SERVER COMMAND:[22:51:04] [Server thread/INFO]: G3R_Bukkit issued server command: /r kann auch ne andere farbe sein
+SERVER COMMAND:[22:51:49] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[22:51:54] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[22:52:03] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[22:59:21] [Server thread/INFO]: G3R_Bukkit issued server command: /r soll ichs wiede rzu machen
+SERVER COMMAND:[23:00:13] [Server thread/INFO]: G3R_Bukkit issued server command: /r ups
+SERVER COMMAND:[23:04:46] [Server thread/INFO]: G3R_Bukkit issued server command: /playerinfo Hertzhaft
+SERVER COMMAND:[23:05:38] [Server thread/INFO]: G3R_Bukkit issued server command: /r macht alles das ban pl
+SERVER COMMAND:[23:07:07] [Server thread/INFO]: G3R_Bukkit issued server command: /r wie im knast
+SERVER COMMAND:[23:07:45] [Server thread/INFO]: G3R_Bukkit issued server command: /r keine gitter
+SERVER COMMAND:[23:07:50] [Server thread/INFO]: G3R_Bukkit issued server command: /r xd
+SERVER COMMAND:[23:09:29] [Server thread/INFO]: G3R_Bukkit issued server command: /r machen erstmal ohne fenster
+SERVER COMMAND:[23:13:20] [Server thread/INFO]: G3R_Bukkit issued server command: /r moment
+SERVER COMMAND:[23:13:53] [Server thread/INFO]: G3R_Bukkit issued server command: /r bist ja gar nicht ts
+SERVER COMMAND:[23:14:08] [Server thread/INFO]: G3R_Bukkit issued server command: /r passt nicht
+SERVER COMMAND:[23:14:14] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich schick dir nen foto
+SERVER COMMAND:[23:16:49] [Server thread/INFO]: G3R_Bukkit issued server command: /r aber Adminban deckt alles ab xD
+SERVER COMMAND:[23:17:05] [Server thread/INFO]: G3R_Bukkit issued server command: /r richtig
+SERVER COMMAND:[23:17:34] [Server thread/INFO]: G3R_Bukkit issued server command: /r das erste mal 5 min mute
+SERVER COMMAND:[23:17:41] [Server thread/INFO]: G3R_Bukkit issued server command: /r das zweite mal 10 min mute
+SERVER COMMAND:[23:17:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r dann immer wieder 10 min bis punkte voll und perma ban
+SERVER COMMAND:[23:19:15] [Server thread/INFO]: G3R_Bukkit issued server command: /r klar
+SERVER COMMAND:[23:20:07] [Server thread/INFO]: G3R_Bukkit issued server command: /r schlaf gut
+SERVER COMMAND:[23:20:26] [Server thread/INFO]: G3R_Bukkit issued server command: /r acg
+SERVER COMMAND:[23:20:33] [Server thread/INFO]: G3R_Bukkit issued server command: /r eine sekunde
+SERVER COMMAND:[23:21:30] [Server thread/INFO]: G3R_Bukkit issued server command: /effect give Hertzhaft minecraft:blindness
+SERVER COMMAND:[23:21:44] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[23:22:15] [Server thread/INFO]: G3R_Bukkit issued server command: /r jap
+SERVER COMMAND:[23:22:39] [Server thread/INFO]: G3R_Bukkit issued server command: /r also dann
+SERVER COMMAND:[23:22:42] [Server thread/INFO]: G3R_Bukkit issued server command: /r bis morgen
+SERVER COMMAND:[09:45:44] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[09:45:49] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[09:52:29] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[09:57:13] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[10:10:18] [Server thread/INFO]: G3R_Bukkit issued server command: /pex reload
+SERVER COMMAND:[10:10:35] [Server thread/INFO]: G3R_Bukkit issued server command: /pex reload
+SERVER COMMAND:[10:29:57] [Server thread/INFO]: G3R_Bukkit issued server command: /pex reload
+SERVER COMMAND:[11:09:46] [Server thread/INFO]: G3R_Bukkit issued server command: /pex group Spieler
+SERVER COMMAND:[11:12:52] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[14:10:13] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp CB2
+SERVER COMMAND:[14:10:18] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[14:34:51] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[17:10:47] [Server thread/INFO]: G3R_Bukkit issued server command: /r hi
+SERVER COMMAND:[17:16:15] [Server thread/INFO]: G3R_Bukkit issued server command: /richtig
+SERVER COMMAND:[17:16:17] [Server thread/INFO]: G3R_Bukkit issued server command: /r richtig
+SERVER COMMAND:[17:21:39] [Server thread/INFO]: G3R_Bukkit issued server command: /r ja auf jeden Fall
+SERVER COMMAND:[17:22:24] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[17:59:18] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[18:02:09] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[18:03:27] [Server thread/INFO]: G3R_Bukkit issued server command: /up
+SERVER COMMAND:[18:03:30] [Server thread/INFO]: G3R_Bukkit issued server command: /up 4
+SERVER COMMAND:[18:03:39] [Server thread/INFO]: G3R_Bukkit issued server command: /up 5
+SERVER COMMAND:[18:03:41] [Server thread/INFO]: G3R_Bukkit issued server command: /up 8
+SERVER COMMAND:[18:03:48] [Server thread/INFO]: G3R_Bukkit issued server command: /asc
+SERVER COMMAND:[18:51:42] [Server thread/INFO]: G3R_Bukkit issued server command: /pex reload
+SERVER COMMAND:[18:52:35] [Server thread/INFO]: G3R_Bukkit issued server command: /r na herzlichen Dank D
+SERVER COMMAND:[18:53:08] [Server thread/INFO]: G3R_Bukkit issued server command: /r alter D
+SERVER COMMAND:[18:53:29] [Server thread/INFO]: G3R_Bukkit issued server command: /r vielleicht will sie zu weihnachten einen account und auch mitspielen
+SERVER COMMAND:[18:56:53] [Server thread/INFO]: G3R_Bukkit issued server command: /pex reload
+SERVER COMMAND:[19:06:03] [Server thread/INFO]: G3R_Bukkit issued server command: /chestcommands reload
+SERVER COMMAND:[19:06:07] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[19:06:11] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[19:07:12] [Server thread/INFO]: G3R_Bukkit issued server command: /chestcommands reload
+SERVER COMMAND:[19:07:14] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[19:07:40] [Server thread/INFO]: G3R_Bukkit issued server command: /chestcommands reload
+SERVER COMMAND:[19:07:42] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[19:15:50] [Server thread/INFO]: G3R_Bukkit issued server command: //pos1
+SERVER COMMAND:[19:15:57] [Server thread/INFO]: G3R_Bukkit issued server command: //pos2
+SERVER COMMAND:[19:15:58] [Server thread/INFO]: G3R_Bukkit issued server command: //set 0
+SERVER COMMAND:[19:17:38] [Server thread/INFO]: G3R_Bukkit issued server command: /r wollte wissen ob du da bist D
+SERVER COMMAND:[19:18:44] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[19:19:02] [Server thread/INFO]: G3R_Bukkit issued server command: /r versuch mal eben auf bedwars via kompass zu kommen :D
+SERVER COMMAND:[19:19:10] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[19:19:45] [Server thread/INFO]: G3R_Bukkit issued server command: /r puh :D
+SERVER COMMAND:[19:20:40] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:20:51] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[19:21:33] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:21:35] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[19:21:43] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:22:32] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[19:22:49] [Server thread/INFO]: G3R_Bukkit issued server command: //redo
+SERVER COMMAND:[19:23:16] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:23:19] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[19:23:26] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:24:16] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:24:18] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[19:24:24] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:27:34] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:27:39] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 180
+SERVER COMMAND:[19:27:48] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:28:34] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:28:36] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 180
+SERVER COMMAND:[19:28:43] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:28:48] [Server thread/INFO]: G3R_Bukkit issued server command: /r alte
+SERVER COMMAND:[19:29:52] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[19:29:54] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:29:57] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 180
+SERVER COMMAND:[19:30:04] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:31:52] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:32:05] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:32:54] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:33:31] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:33:54] [Server thread/INFO]: G3R_Bukkit issued server command: /r bin mal eben am telefon aber ich lese was du schreibst
+SERVER COMMAND:[19:36:28] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:36:34] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 180
+SERVER COMMAND:[19:36:42] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:37:12] [Server thread/INFO]: G3R_Bukkit issued server command: /r das war ich
+SERVER COMMAND:[19:37:19] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[19:37:41] [Server thread/INFO]: G3R_Bukkit issued server command: /r ok
+SERVER COMMAND:[19:45:02] [Server thread/INFO]: G3R_Bukkit issued server command: /r mach mal nen beispiel
+SERVER COMMAND:[19:49:24] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[19:53:14] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[19:53:19] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[19:53:26] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:53:34] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[19:53:39] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:53:41] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[19:53:47] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[19:55:00] [Server thread/INFO]: G3R_Bukkit issued server command: /r so
+SERVER COMMAND:[20:05:16] [Server thread/INFO]: G3R_Bukkit issued server command: /r jop
+SERVER COMMAND:[20:09:33] [Server thread/INFO]: G3R_Bukkit issued server command: /r kann man so lassen
+SERVER COMMAND:[20:10:15] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[20:10:27] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[20:10:38] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[20:10:49] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[20:14:32] [Server thread/INFO]: G3R_Bukkit issued server command: /r hm
+SERVER COMMAND:[20:17:56] [Server thread/INFO]: G3R_Bukkit issued server command: /rdann gute besserung
+SERVER COMMAND:[20:17:58] [Server thread/INFO]: G3R_Bukkit issued server command: /r dann gute besserung
+SERVER COMMAND:[20:19:37] [Server thread/INFO]: G3R_Bukkit issued server command: /r ist doch fast fertig
+SERVER COMMAND:[20:19:47] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich bin noch ne weile hier
+SERVER COMMAND:[20:21:23] [Server thread/INFO]: G3R_Bukkit issued server command: /r bb
+SERVER COMMAND:[20:30:39] [Server thread/INFO]: G3R_Bukkit issued server command: //replace water kelp
+SERVER COMMAND:[20:41:28] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[20:53:19] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[20:57:22] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[20:58:19] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[09:09:35] [Server thread/INFO]: G3R_Bukkit issued server command: /craft
+SERVER COMMAND:[09:10:12] [Server thread/INFO]: G3R_Bukkit issued server command: /craft
+SERVER COMMAND:[09:11:17] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[10:11:45] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[12:11:06] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[12:16:04] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[12:24:46] [Server thread/INFO]: G3R_Bukkit issued server command: /help
+SERVER COMMAND:[12:25:38] [Server thread/INFO]: G3R_Bukkit issued server command: /announce test
+SERVER COMMAND:[12:25:48] [Server thread/INFO]: G3R_Bukkit issued server command: /clearchat
+SERVER COMMAND:[12:43:33] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[14:20:04] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[14:20:25] [Server thread/INFO]: G3R_Bukkit issued server command: /vvbukkit
+SERVER COMMAND:[14:21:58] [Server thread/INFO]: G3R_Bukkit issued server command: /pex groups
+SERVER COMMAND:[14:35:05] [Server thread/INFO]: G3R_Bukkit issued server command: /pex groups gast
+SERVER COMMAND:[14:35:10] [Server thread/INFO]: G3R_Bukkit issued server command: /pex group gast
+SERVER COMMAND:[14:38:01] [Server thread/INFO]: G3R_Bukkit issued server command: /pex group gast
+SERVER COMMAND:[14:47:17] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[15:35:51] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:35:57] [Server thread/INFO]: G3R_Bukkit issued server command: /r hi D
+SERVER COMMAND:[15:37:40] [Server thread/INFO]: G3R_Bukkit issued server command: /r k
+SERVER COMMAND:[15:43:58] [Server thread/INFO]: G3R_Bukkit issued server command: /r habe ban nochmals angepasst
+SERVER COMMAND:[15:46:33] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[15:49:06] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[16:11:46] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[16:12:13] [Server thread/INFO]: G3R_Bukkit issued server command: /r brauchst du hilfe
+SERVER COMMAND:[16:12:40] [Server thread/INFO]: G3R_Bukkit issued server command: /r sieht gut aus
+SERVER COMMAND:[16:13:39] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD die poledancestange macht sogar licht D
+SERVER COMMAND:[16:15:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r ah ok
+SERVER COMMAND:[16:20:01] [Server thread/INFO]: G3R_Bukkit issued server command: /r gut :D sieht bestimmt mega aus
+SERVER COMMAND:[16:20:25] [Server thread/INFO]: G3R_Bukkit issued server command: /r wenn es an seinem Platz steht
+SERVER COMMAND:[16:26:50] [Server thread/INFO]: G3R_Bukkit issued server command: /r ah ok
+SERVER COMMAND:[16:27:08] [Server thread/INFO]: G3R_Bukkit issued server command: /r wie du nur auf den Gedanken mit der Uhr gekommen bist xD
+SERVER COMMAND:[16:29:27] [Server thread/INFO]: G3R_Bukkit issued server command: /r schief
+SERVER COMMAND:[16:36:34] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[16:44:25] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[16:46:12] [Server thread/INFO]: G3R_Bukkit issued server command: /r du wirkst demotiviert
+SERVER COMMAND:[16:49:39] [Server thread/INFO]: G3R_Bukkit issued server command: /r xD
+SERVER COMMAND:[16:51:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r mit diesem Glasblock
+SERVER COMMAND:[16:53:01] [Server thread/INFO]: G3R_Bukkit issued server command: //cut
+SERVER COMMAND:[16:53:10] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[17:06:57] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[17:07:39] [Server thread/INFO]: G3R_Bukkit issued server command: /r erstmal zum test wie es hier aussieht
+SERVER COMMAND:[17:07:57] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[17:08:26] [Server thread/INFO]: G3R_Bukkit issued server command: /r herr vor ragend
+SERVER COMMAND:[17:09:10] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[17:10:23] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 10
+SERVER COMMAND:[17:10:55] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[17:30:53] [Server thread/INFO]: G3R_Bukkit issued server command: /r richtig
+SERVER COMMAND:[17:39:00] [Server thread/INFO]: G3R_Bukkit issued server command: /r also kann ich dahergehen und einen Spielernamen eingeben und dann bekomm ich ne mail
+SERVER COMMAND:[19:46:36] [Server thread/INFO]: G3R_Bukkit issued server command: /r sehr geil :D
+SERVER COMMAND:[19:49:04] [Server thread/INFO]: G3R_Bukkit issued server command: /r gern :D
+SERVER COMMAND:[19:49:09] [Server thread/INFO]: G3R_Bukkit issued server command: /r schau mal aufs handy
+SERVER COMMAND:[19:53:13] [Server thread/INFO]: G3R_Bukkit issued server command: /r ja
+SERVER COMMAND:[19:53:38] [Server thread/INFO]: G3R_Bukkit issued server command: /r 8290 jetzt
+SERVER COMMAND:[19:55:22] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 4
+SERVER COMMAND:[20:02:40] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[20:12:59] [Server thread/INFO]: G3R_Bukkit issued server command: /r stikmmt
+SERVER COMMAND:[20:19:35] [Server thread/INFO]: G3R_Bukkit issued server command: /r die hatten wir vergessen
+SERVER COMMAND:[20:44:18] [Server thread/INFO]: G3R_Bukkit issued server command: /r jo
+SERVER COMMAND:[20:54:54] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 3
+SERVER COMMAND:[20:54:59] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[20:55:03] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 3
+SERVER COMMAND:[20:55:09] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[21:13:57] [Server thread/INFO]: G3R_Bukkit issued server command: /r hier in der Lounge
+SERVER COMMAND:[22:00:16] [Server thread/INFO]: G3R_Bukkit issued server command: /mail read
+SERVER COMMAND:[22:00:21] [Server thread/INFO]: G3R_Bukkit issued server command: /mail clear
+SERVER COMMAND:[22:17:40] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 3
+SERVER COMMAND:[22:18:04] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[22:23:09] [Server thread/INFO]: G3R_Bukkit issued server command: /r aso D
+SERVER COMMAND:[22:24:44] [Server thread/INFO]: G3R_Bukkit issued server command: /r ok
+SERVER COMMAND:[22:32:30] [Server thread/INFO]: G3R_Bukkit issued server command: /r IP reset
+SERVER COMMAND:[22:32:55] [Server thread/INFO]: G3R_Bukkit issued server command: /r deswegen war ich klurz wegf
+SERVER COMMAND:[22:34:10] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[22:50:51] [Server thread/INFO]: G3R_Bukkit issued server command: /r schick xD
+SERVER COMMAND:[22:57:52] [Server thread/INFO]: G3R_Bukkit issued server command: /r ich schau mal bei google
+SERVER COMMAND:[23:03:11] [Server thread/INFO]: G3R_Bukkit issued server command: /r schau dir mal die effekte an die ich auf cb1 habe
+SERVER COMMAND:[09:22:26] [Server thread/INFO]: G3R_Bukkit issued server command: /mail
+SERVER COMMAND:[09:22:32] [Server thread/INFO]: G3R_Bukkit issued server command: /mail read
+SERVER COMMAND:[09:23:42] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[16:58:05] [Server thread/INFO]: G3R_Bukkit issued server command: /cc open example
+SERVER COMMAND:[09:32:42] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[09:33:10] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[20:39:31] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[20:56:52] [Server thread/INFO]: G3R_Bukkit issued server command: /dkban
+SERVER COMMAND:[20:56:56] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[21:00:40] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[21:11:04] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[21:12:29] [Server thread/INFO]: G3R_Bukkit issued server command: /banlist
+SERVER COMMAND:[21:13:18] [Server thread/INFO]: G3R_Bukkit issued server command: /baninfo
+SERVER COMMAND:[21:13:50] [Server thread/INFO]: G3R_Bukkit issued server command: /reports
+SERVER COMMAND:[21:15:16] [Server thread/INFO]: G3R_Bukkit issued server command: /staffstats
+SERVER COMMAND:[21:25:09] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[21:27:54] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[11:10:09] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[13:00:01] [Server thread/INFO]: G3R_Bukkit issued server command: /dkban reload
+SERVER COMMAND:[13:00:07] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[13:01:54] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[13:05:10] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[13:29:13] [Server thread/INFO]: G3R_Bukkit issued server command: /playerinfo
+SERVER COMMAND:[13:33:37] [Server thread/INFO]: G3R_Bukkit issued server command: /report
+SERVER COMMAND:[13:34:36] [Server thread/INFO]: G3R_Bukkit issued server command: /reports
+SERVER COMMAND:[13:34:56] [Server thread/INFO]: G3R_Bukkit issued server command: /reports
+SERVER COMMAND:[13:35:15] [Server thread/INFO]: G3R_Bukkit issued server command: /reports
+SERVER COMMAND:[13:37:32] [Server thread/INFO]: G3R_Bukkit issued server command: /ban help
+SERVER COMMAND:[13:37:36] [Server thread/INFO]: G3R_Bukkit issued server command: /banhelp
+SERVER COMMAND:[13:37:53] [Server thread/INFO]: G3R_Bukkit issued server command: /dkban
+SERVER COMMAND:[13:37:55] [Server thread/INFO]: G3R_Bukkit issued server command: /dkbans
+SERVER COMMAND:[13:37:59] [Server thread/INFO]: G3R_Bukkit issued server command: /dkban help
+SERVER COMMAND:[13:38:16] [Server thread/INFO]: G3R_Bukkit issued server command: /ban
+SERVER COMMAND:[13:46:18] [Server thread/INFO]: G3R_Bukkit issued server command: /baninfo
+SERVER COMMAND:[14:02:56] [Server thread/INFO]: G3R_Bukkit issued server command: /unwarn
+SERVER COMMAND:[14:08:43] [Server thread/INFO]: G3R_Bukkit issued server command: /dkban reload
+SERVER COMMAND:[14:08:48] [Server thread/INFO]: G3R_Bukkit issued server command: /ban reload
+SERVER COMMAND:[14:09:02] [Server thread/INFO]: G3R_Bukkit issued server command: /dkban reload
+SERVER COMMAND:[14:13:42] [Server thread/INFO]: G3R_Bukkit issued server command: /joinme
+SERVER COMMAND:[14:15:01] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat
+SERVER COMMAND:[14:15:09] [Server thread/INFO]: G3R_Bukkit issued server command: /teamchat test
+SERVER COMMAND:[14:16:22] [Server thread/INFO]: G3R_Bukkit issued server command: /tempban
+SERVER COMMAND:[14:17:58] [Server thread/INFO]: G3R_Bukkit issued server command: /history
+SERVER COMMAND:[14:24:34] [Server thread/INFO]: G3R_Bukkit issued server command: /history
+SERVER COMMAND:[14:48:55] [Server thread/INFO]: G3R_Bukkit issued server command: /ban version info
+SERVER COMMAND:[14:49:05] [Server thread/INFO]: G3R_Bukkit issued server command: /dkban version info
+SERVER COMMAND:[15:40:15] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag
+SERVER COMMAND:[15:40:21] [Server thread/INFO]: G3R_Bukkit issued server command: /p biom
+SERVER COMMAND:[15:40:29] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:40:37] [Server thread/INFO]: G3R_Bukkit issued server command: /p setbiome snow
+SERVER COMMAND:[15:40:40] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:40:48] [Server thread/INFO]: G3R_Bukkit issued server command: /p biome snow
+SERVER COMMAND:[15:40:56] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:43:13] [Server thread/INFO]: G3R_Bukkit issued server command: /p biome 30
+SERVER COMMAND:[15:43:18] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:43:29] [Server thread/INFO]: G3R_Bukkit issued server command: /p biom 30
+SERVER COMMAND:[15:44:06] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:44:16] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:44:27] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:45:16] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:46:12] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:46:22] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:46:31] [Server thread/INFO]: G3R_Bukkit issued server command: /p setbiome 30 10
+SERVER COMMAND:[15:46:33] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:47:32] [Server thread/INFO]: G3R_Bukkit issued server command: /p biome
+SERVER COMMAND:[15:47:39] [Server thread/INFO]: G3R_Bukkit issued server command: /p biome BIOME
+SERVER COMMAND:[15:48:41] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:48:49] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[15:49:21] [Server thread/INFO]: G3R_Bukkit issued server command: /p setflag weather
+SERVER COMMAND:[15:49:32] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag remove weather
+SERVER COMMAND:[15:49:39] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[16:19:34] [Server thread/INFO]: G3R_Bukkit issued server command: /pl
+SERVER COMMAND:[16:20:29] [Server thread/INFO]: G3R_Bukkit issued server command: /ipinfo
+SERVER COMMAND:[16:23:17] [Server thread/INFO]: G3R_Bukkit issued server command: /chatlog
+SERVER COMMAND:[16:24:00] [Server thread/INFO]: G3R_Bukkit issued server command: /chatlog CB1
+SERVER COMMAND:[16:24:11] [Server thread/INFO]: G3R_Bukkit issued server command: /chatlogs
+SERVER COMMAND:[16:26:26] [Server thread/INFO]: G3R_Bukkit issued server command: /staffstats
+SERVER COMMAND:[16:27:01] [Server thread/INFO]: G3R_Bukkit issued server command: /networkstats
+SERVER COMMAND:[19:52:06] [Server thread/INFO]: G3R_Bukkit issued server command: /bank
+SERVER COMMAND:[19:54:55] [Server thread/INFO]: G3R_Bukkit issued server command: /clearlag:lagg
+SERVER COMMAND:[19:55:50] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg check
+SERVER COMMAND:[19:56:06] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg killmobs
+SERVER COMMAND:[19:56:18] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg killmobs
+SERVER COMMAND:[19:56:37] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg clear
+SERVER COMMAND:[19:57:04] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg admin
+SERVER COMMAND:[19:57:12] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg admin list
+SERVER COMMAND:[12:04:20] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Farmwelt
+SERVER COMMAND:[12:04:41] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[12:04:43] [Server thread/INFO]: G3R_Bukkit issued server command: /god
+SERVER COMMAND:[12:05:12] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[12:06:24] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[12:06:26] [Server thread/INFO]: G3R_Bukkit issued server command: /god
+SERVER COMMAND:[12:06:27] [Server thread/INFO]: G3R_Bukkit issued server command: /god
+SERVER COMMAND:[12:06:29] [Server thread/INFO]: G3R_Bukkit issued server command: /fly
+SERVER COMMAND:[12:11:14] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 3
+SERVER COMMAND:[12:11:51] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[12:11:55] [Server thread/INFO]: G3R_Bukkit issued server command: /fly
+SERVER COMMAND:[12:12:33] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 3
+SERVER COMMAND:[12:13:53] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[12:14:13] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 3
+SERVER COMMAND:[12:14:21] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[12:24:47] [Server thread/INFO]: G3R_Bukkit issued server command: //replace stone 0
+SERVER COMMAND:[12:25:23] [Server thread/INFO]: G3R_Bukkit issued server command: //replace stone 0
+SERVER COMMAND:[12:26:08] [Server thread/INFO]: G3R_Bukkit issued server command: //replace stone 0
+SERVER COMMAND:[12:27:03] [Server thread/INFO]: G3R_Bukkit issued server command: //replace stone 0
+SERVER COMMAND:[12:29:37] [Server thread/INFO]: G3R_Bukkit issued server command: //replace 0 dirt
+SERVER COMMAND:[12:42:35] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Farmwelt
+SERVER COMMAND:[12:43:54] [Server thread/INFO]: G3R_Bukkit issued server command: /Warp
+SERVER COMMAND:[12:44:05] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtl list
+SERVER COMMAND:[12:44:08] [Server thread/INFO]: G3R_Bukkit issued server command: /mvlist
+SERVER COMMAND:[12:48:17] [Server thread/INFO]: G3R_Bukkit issued server command: /god
+SERVER COMMAND:[12:48:21] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[12:48:34] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[12:50:12] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[12:52:17] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp lobby
+SERVER COMMAND:[12:52:22] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp CB1
+SERVER COMMAND:[12:54:04] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem
+SERVER COMMAND:[12:54:09] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout
+SERVER COMMAND:[12:54:14] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout create
+SERVER COMMAND:[12:54:40] [Server thread/INFO]: G3R_Bukkit issued server command: /trade
+SERVER COMMAND:[12:54:50] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[12:55:35] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout create
+SERVER COMMAND:[12:57:27] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[13:18:35] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem
+SERVER COMMAND:[13:18:38] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout
+SERVER COMMAND:[13:18:53] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[13:20:30] [Server thread/INFO]: G3R_Bukkit issued server command: /chatcontrol reload
+SERVER COMMAND:[13:21:06] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[13:21:09] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[13:21:23] [Server thread/INFO]: G3R_Bukkit issued server command: /give barrier 1
+SERVER COMMAND:[13:21:36] [Server thread/INFO]: G3R_Bukkit issued server command: /give minecraft:barrier 1
+SERVER COMMAND:[13:21:49] [Server thread/INFO]: G3R_Bukkit issued server command: /give barriere
+SERVER COMMAND:[13:21:52] [Server thread/INFO]: G3R_Bukkit issued server command: /give barriere 1
+SERVER COMMAND:[14:42:25] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[16:23:53] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[16:24:40] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[16:27:19] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[16:29:30] [Server thread/INFO]: G3R_Bukkit issued server command: /enchant durability 1
+SERVER COMMAND:[16:29:48] [Server thread/INFO]: G3R_Bukkit issued server command: /enchant fire 1
+SERVER COMMAND:[16:38:50] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Farmwelt
+SERVER COMMAND:[16:39:12] [Server thread/INFO]: G3R_Bukkit issued server command: /back
+SERVER COMMAND:[17:07:08] [Server thread/INFO]: G3R_Bukkit issued server command: /summon minecraft:spawner 1
+SERVER COMMAND:[17:09:45] [Server thread/INFO]: G3R_Bukkit issued server command: /glow
+SERVER COMMAND:[17:12:08] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[17:21:10] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[17:25:00] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout create
+SERVER COMMAND:[17:31:52] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem
+SERVER COMMAND:[17:31:57] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout
+SERVER COMMAND:[17:32:00] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout activate
+SERVER COMMAND:[17:32:05] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout activate tradeLayout001
+SERVER COMMAND:[17:32:11] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[17:42:03] [Server thread/INFO]: G3R_Bukkit issued server command: /trade reload
+SERVER COMMAND:[17:42:39] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem reload
+SERVER COMMAND:[17:44:55] [Server thread/INFO]: G3R_Bukkit issued server command: /summon
+SERVER COMMAND:[17:45:11] [Server thread/INFO]: G3R_Bukkit issued server command: /summon minecraft:wolf 10 10 10
+SERVER COMMAND:[17:46:56] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[20:51:05] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[20:51:27] [Server thread/INFO]: G3R_Bukkit issued server command: /trade Hertzhaft
+SERVER COMMAND:[20:53:28] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Farmwelt
+SERVER COMMAND:[20:53:34] [Server thread/INFO]: G3R_Bukkit issued server command: /god
+SERVER COMMAND:[20:53:36] [Server thread/INFO]: G3R_Bukkit issued server command: /fly
+SERVER COMMAND:[20:55:02] [Server thread/INFO]: G3R_Bukkit issued server command: /locate Stronghold
+SERVER COMMAND:[21:01:33] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[21:15:35] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 10
+SERVER COMMAND:[21:18:51] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 3
+SERVER COMMAND:[21:31:26] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[21:31:56] [Server thread/INFO]: G3R_Bukkit issued server command: /jumpto Hertzhaft
+SERVER COMMAND:[11:30:21] [Server thread/INFO]: G3R_Bukkit issued server command: /p h
+SERVER COMMAND:[11:30:23] [Server thread/INFO]: G3R_Bukkit issued server command: /p h 2
+SERVER COMMAND:[11:30:25] [Server thread/INFO]: G3R_Bukkit issued server command: /p h 3
+SERVER COMMAND:[11:30:27] [Server thread/INFO]: G3R_Bukkit issued server command: /p h 4
+SERVER COMMAND:[11:30:36] [Server thread/INFO]: G3R_Bukkit issued server command: /p h 5
+SERVER COMMAND:[11:30:44] [Server thread/INFO]: G3R_Bukkit issued server command: /p c
+SERVER COMMAND:[11:30:48] [Server thread/INFO]: G3R_Bukkit issued server command: /rand
+SERVER COMMAND:[11:31:17] [Server thread/INFO]: G3R_Bukkit issued server command: /p c
+SERVER COMMAND:[11:31:23] [Server thread/INFO]: G3R_Bukkit issued server command: /p merge
+SERVER COMMAND:[11:31:31] [Server thread/INFO]: G3R_Bukkit issued server command: /p unmerge
+SERVER COMMAND:[11:31:43] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[11:31:59] [Server thread/INFO]: G3R_Bukkit issued server command: /p merge
+SERVER COMMAND:[11:32:10] [Server thread/INFO]: G3R_Bukkit issued server command: /p unmerge
+SERVER COMMAND:[12:00:12] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem
+SERVER COMMAND:[12:00:15] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout
+SERVER COMMAND:[12:00:18] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout edit
+SERVER COMMAND:[12:00:21] [Server thread/INFO]: G3R_Bukkit issued server command: /tradesystem layout edit tradeLayout001
+SERVER COMMAND:[12:01:43] [Server thread/INFO]: G3R_Bukkit issued server command: /trade
+SERVER COMMAND:[12:01:58] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[14:10:28] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp CB2
+SERVER COMMAND:[14:10:36] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[14:11:14] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[14:22:27] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[14:23:31] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[14:23:37] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:23:50] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:23:55] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[14:23:59] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:27:40] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[14:27:46] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:27:52] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:28:04] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[14:28:07] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:32:55] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[14:32:58] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:33:00] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:33:03] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:33:13] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[14:33:22] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 180
+SERVER COMMAND:[14:33:32] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:38] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[14:50:42] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:46] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:47] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:49] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:51] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:52] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:54] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:55] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[14:50:57] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:06:12] [Server thread/INFO]: G3R_Bukkit issued server command: //cut
+SERVER COMMAND:[15:06:16] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:16:05] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[15:16:10] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 180
+SERVER COMMAND:[15:16:21] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:16:36] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[15:16:41] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:16:57] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[15:16:58] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:49:57] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[17:23:05] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[17:23:42] [Server thread/INFO]: G3R_Bukkit issued server command: /v Hertzhaft
+SERVER COMMAND:[17:39:31] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[17:39:34] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[17:50:03] [Server thread/INFO]: G3R_Bukkit issued server command: /Day
+SERVER COMMAND:[17:59:27] [Server thread/INFO]: G3R_Bukkit issued server command: /commandblocker reload
+SERVER COMMAND:[20:56:05] [Server thread/INFO]: G3R_Bukkit issued server command: /mvlist
+SERVER COMMAND:[20:56:32] [Server thread/INFO]: G3R_Bukkit issued server command: /mobstacks reload
+SERVER COMMAND:[20:58:38] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[21:00:17] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 6
+SERVER COMMAND:[21:01:36] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp CB1
+SERVER COMMAND:[21:05:00] [Server thread/INFO]: G3R_Bukkit issued server command: /spawn enderdragon 1
+SERVER COMMAND:[21:07:22] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp CB1
+SERVER COMMAND:[21:07:54] [Server thread/INFO]: G3R_Bukkit issued server command: /warp
+SERVER COMMAND:[21:07:58] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Farmwelt
+SERVER COMMAND:[21:09:49] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:10:04] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:10:14] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:12:34] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg
+SERVER COMMAND:[21:12:40] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg chunk
+SERVER COMMAND:[21:12:57] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[21:13:51] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg tpchunk
+SERVER COMMAND:[21:14:03] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg clear
+SERVER COMMAND:[21:14:26] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg unloadchunks
+SERVER COMMAND:[21:14:42] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg
+SERVER COMMAND:[21:14:55] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp farmwelt1
+SERVER COMMAND:[21:15:01] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg clear
+SERVER COMMAND:[21:15:17] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:15:32] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:15:39] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[21:15:42] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:15:52] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:16:01] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:16:35] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[21:19:00] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:19:08] [Server thread/INFO]: G3R_Bukkit issued server command: /mvlist
+SERVER COMMAND:[21:19:17] [Server thread/INFO]: G3R_Bukkit issued server command: /mv unload
+SERVER COMMAND:[21:19:22] [Server thread/INFO]: G3R_Bukkit issued server command: /mv unload world
+SERVER COMMAND:[21:20:14] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp world
+SERVER COMMAND:[21:20:19] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:20:50] [Server thread/INFO]: G3R_Bukkit issued server command: /rg flag set
+SERVER COMMAND:[21:21:05] [Server thread/INFO]: G3R_Bukkit issued server command: /rg flag
+SERVER COMMAND:[21:21:08] [Server thread/INFO]: G3R_Bukkit issued server command: /rg
+SERVER COMMAND:[21:21:14] [Server thread/INFO]: G3R_Bukkit issued server command: /rg i
+SERVER COMMAND:[21:22:35] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg clear
+SERVER COMMAND:[21:22:41] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg
+SERVER COMMAND:[21:22:45] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg killmobs
+SERVER COMMAND:[21:22:46] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg killmobs
+SERVER COMMAND:[21:22:50] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg killmobs
+SERVER COMMAND:[21:22:55] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg
+SERVER COMMAND:[21:23:02] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg clear
+SERVER COMMAND:[21:23:35] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:23:35] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[21:23:59] [Server thread/INFO]: G3R_Bukkit issued server command: /lagg clear
+SERVER COMMAND:[21:24:33] [Server thread/INFO]: G3R_Bukkit issued server command: /killall
+SERVER COMMAND:[21:24:36] [Server thread/INFO]: G3R_Bukkit issued server command: /killall all
+SERVER COMMAND:[21:24:44] [Server thread/INFO]: G3R_Bukkit issued server command: /killall mobs
+SERVER COMMAND:[21:24:48] [Server thread/INFO]: G3R_Bukkit issued server command: /killall animals
+SERVER COMMAND:[21:24:54] [Server thread/INFO]: G3R_Bukkit issued server command: /killall monsters
+SERVER COMMAND:[21:25:01] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:25:39] [Server thread/INFO]: G3R_Bukkit issued server command: /mobstack reload
+SERVER COMMAND:[21:27:25] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb1
+SERVER COMMAND:[21:27:31] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:27:42] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:27:43] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:43:50] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[10:11:59] [Server thread/INFO]: G3R_Bukkit issued server command: /Day
+SERVER COMMAND:[10:12:03] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Farmwelt
+SERVER COMMAND:[10:17:25] [Server thread/INFO]: G3R_Bukkit issued server command: /redclockdetector:redclock
+SERVER COMMAND:[10:17:43] [Server thread/INFO]: G3R_Bukkit issued server command: /redclock enable
+SERVER COMMAND:[10:17:49] [Server thread/INFO]: G3R_Bukkit issued server command: /warp
+SERVER COMMAND:[10:17:53] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Spawn
+SERVER COMMAND:[10:18:19] [Server thread/INFO]: G3R_Bukkit issued server command: /redclock
+SERVER COMMAND:[10:20:04] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[10:22:38] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[10:24:32] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[12:11:13] [Server thread/INFO]: G3R_Bukkit issued server command: /hub
+SERVER COMMAND:[12:11:13] [Server thread/INFO]: G3R_Bukkit issued server command: /server lobby
+SERVER COMMAND:[12:20:47] [Server thread/INFO]: G3R_Bukkit issued server command: /warps
+SERVER COMMAND:[12:43:56] [Server thread/INFO]: G3R_Bukkit issued server command: /chatcontrol reload
+SERVER COMMAND:[14:19:34] [Server thread/INFO]: G3R_Bukkit issued server command: /hub
+SERVER COMMAND:[14:19:38] [Server thread/INFO]: G3R_Bukkit issued server command: /portal
+SERVER COMMAND:[14:49:38] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[14:49:56] [Server thread/INFO]: G3R_Bukkit issued server command: /tpaccept
+SERVER COMMAND:[14:51:08] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:04:06] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:04:08] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:04:10] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:04:13] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:47:12] [Server thread/INFO]: G3R_Bukkit issued server command: /bp
+SERVER COMMAND:[15:49:25] [Server thread/INFO]: G3R_Bukkit issued server command: /bp
+SERVER COMMAND:[15:49:29] [Server thread/INFO]: G3R_Bukkit issued server command: /bp help
+SERVER COMMAND:[15:49:39] [Server thread/INFO]: G3R_Bukkit issued server command: /bp add test
+SERVER COMMAND:[15:49:45] [Server thread/INFO]: G3R_Bukkit issued server command: /bp types
+SERVER COMMAND:[15:50:00] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test volcano
+SERVER COMMAND:[15:50:15] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test spiral
+SERVER COMMAND:[15:50:26] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test crit
+SERVER COMMAND:[15:50:36] [Server thread/INFO]: G3R_Bukkit issued server command: /bp delete test
+SERVER COMMAND:[15:50:42] [Server thread/INFO]: G3R_Bukkit issued server command: /bp add test
+SERVER COMMAND:[15:50:50] [Server thread/INFO]: G3R_Bukkit issued server command: /bp add test
+SERVER COMMAND:[15:50:55] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test spiral
+SERVER COMMAND:[15:51:00] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test crit
+SERVER COMMAND:[15:51:08] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test bigcrit
+SERVER COMMAND:[15:51:12] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test flame
+SERVER COMMAND:[15:51:18] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test fog
+SERVER COMMAND:[15:51:24] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test storm
+SERVER COMMAND:[15:51:31] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test witch
+SERVER COMMAND:[15:51:37] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test halo
+SERVER COMMAND:[15:51:45] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test lovewell
+SERVER COMMAND:[15:51:58] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test soulwell
+SERVER COMMAND:[15:52:05] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test mario
+SERVER COMMAND:[15:52:34] [Server thread/INFO]: G3R_Bukkit issued server command: /bp add test2
+SERVER COMMAND:[15:52:37] [Server thread/INFO]: G3R_Bukkit issued server command: /bp add test3
+SERVER COMMAND:[15:52:41] [Server thread/INFO]: G3R_Bukkit issued server command: /bp add test4
+SERVER COMMAND:[15:52:57] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test2 water
+SERVER COMMAND:[15:53:06] [Server thread/INFO]: G3R_Bukkit issued server command: /bp types
+SERVER COMMAND:[15:53:21] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test2 gems
+SERVER COMMAND:[15:53:28] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test2 halloween
+SERVER COMMAND:[15:53:37] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test2 pokemon
+SERVER COMMAND:[15:53:47] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test2 endersignal
+SERVER COMMAND:[15:54:03] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test2 flamewheel
+SERVER COMMAND:[15:54:21] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test3 witchtornado
+SERVER COMMAND:[15:54:42] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test firespew
+SERVER COMMAND:[15:55:09] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test magic
+SERVER COMMAND:[15:55:21] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test mario
+SERVER COMMAND:[15:55:28] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 firespew
+SERVER COMMAND:[15:57:47] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[16:00:42] [Server thread/INFO]: G3R_Bukkit issued server command: /bp
+SERVER COMMAND:[16:00:48] [Server thread/INFO]: G3R_Bukkit issued server command: /bp help
+SERVER COMMAND:[16:00:52] [Server thread/INFO]: G3R_Bukkit issued server command: /bp types
+SERVER COMMAND:[16:01:04] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 spiral
+SERVER COMMAND:[16:01:14] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 doublespiral
+SERVER COMMAND:[16:01:20] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 crit
+SERVER COMMAND:[16:01:29] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 bigcrit
+SERVER COMMAND:[16:01:34] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 flame
+SERVER COMMAND:[16:01:43] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 bigflame
+SERVER COMMAND:[16:01:48] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 fog
+SERVER COMMAND:[16:01:53] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 enchant
+SERVER COMMAND:[16:02:04] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 storm
+SERVER COMMAND:[16:02:10] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 chains
+SERVER COMMAND:[16:05:55] [Server thread/INFO]: G3R_Bukkit issued server command: /bp types
+SERVER COMMAND:[16:06:02] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 firestorm
+SERVER COMMAND:[16:06:19] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 snow
+SERVER COMMAND:[16:06:26] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 potion
+SERVER COMMAND:[16:06:33] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 music
+SERVER COMMAND:[16:06:42] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 spew
+SERVER COMMAND:[16:06:47] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 magic
+SERVER COMMAND:[16:06:54] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 witch
+SERVER COMMAND:[16:07:07] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 footprint
+SERVER COMMAND:[16:07:18] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 water
+SERVER COMMAND:[16:07:25] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 happyvillager
+SERVER COMMAND:[16:07:34] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 mobspawner
+SERVER COMMAND:[16:07:43] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 endersignal
+SERVER COMMAND:[16:07:50] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 rainbow
+SERVER COMMAND:[16:08:07] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 rbiglovewell
+SERVER COMMAND:[16:08:12] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 biglovewell
+SERVER COMMAND:[16:08:23] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 halloween
+SERVER COMMAND:[16:08:40] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 heads
+SERVER COMMAND:[16:08:49] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 presents
+SERVER COMMAND:[16:08:58] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 mobs
+SERVER COMMAND:[16:09:12] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 chains
+SERVER COMMAND:[16:11:18] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[16:36:50] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[16:36:53] [Server thread/INFO]: G3R_Bukkit issued server command: /clans
+SERVER COMMAND:[16:36:55] [Server thread/INFO]: G3R_Bukkit issued server command: /clan
+SERVER COMMAND:[16:39:52] [Server thread/INFO]: G3R_Bukkit issued server command: /clan reload
+SERVER COMMAND:[16:39:58] [Server thread/INFO]: G3R_Bukkit issued server command: /clan list
+SERVER COMMAND:[16:40:09] [Server thread/INFO]: G3R_Bukkit issued server command: /clan create TEAM
+SERVER COMMAND:[16:40:28] [Server thread/INFO]: G3R_Bukkit issued server command: /clan create TEAM
+SERVER COMMAND:[16:40:38] [Server thread/INFO]: G3R_Bukkit issued server command: /clan list
+SERVER COMMAND:[16:41:13] [Server thread/INFO]: G3R_Bukkit issued server command: /clan leave
+SERVER COMMAND:[16:41:57] [Server thread/INFO]: G3R_Bukkit issued server command: /clan reload
+SERVER COMMAND:[16:42:02] [Server thread/INFO]: G3R_Bukkit issued server command: /clan create TEAM
+SERVER COMMAND:[16:42:13] [Server thread/INFO]: G3R_Bukkit issued server command: /clan leave
+SERVER COMMAND:[23:05:33] [Server thread/INFO]: G3R_Bukkit issued server command: /bp hepl
+SERVER COMMAND:[23:05:39] [Server thread/INFO]: G3R_Bukkit issued server command: /bp help
+SERVER COMMAND:[23:05:42] [Server thread/INFO]: G3R_Bukkit issued server command: /bp types
+SERVER COMMAND:[23:05:52] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 spiral
+SERVER COMMAND:[23:06:12] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 doublespiral
+SERVER COMMAND:[23:06:19] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 crit
+SERVER COMMAND:[23:06:25] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 bigcrit
+SERVER COMMAND:[23:06:30] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 flame
+SERVER COMMAND:[23:06:36] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 bigflame
+SERVER COMMAND:[23:06:42] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 vulcano
+SERVER COMMAND:[23:06:48] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 volcano
+SERVER COMMAND:[23:07:00] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 fog
+SERVER COMMAND:[23:07:33] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 enchant
+SERVER COMMAND:[23:07:45] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 storm
+SERVER COMMAND:[23:07:54] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 chains
+SERVER COMMAND:[23:08:01] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 firestorm
+SERVER COMMAND:[23:08:11] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 snow
+SERVER COMMAND:[23:08:20] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 potion
+SERVER COMMAND:[23:08:28] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 music
+SERVER COMMAND:[23:08:34] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 spew
+SERVER COMMAND:[23:08:40] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 magic
+SERVER COMMAND:[23:08:50] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 witch
+SERVER COMMAND:[23:08:57] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 doublewitch
+SERVER COMMAND:[23:09:07] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 snowstorm
+SERVER COMMAND:[23:09:17] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 firespew
+SERVER COMMAND:[23:09:29] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 footprint
+SERVER COMMAND:[23:09:37] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 water
+SERVER COMMAND:[23:09:48] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 happyvillager
+SERVER COMMAND:[23:09:58] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 angryvillager
+SERVER COMMAND:[23:10:07] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 mobspawner
+SERVER COMMAND:[23:10:16] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 endersignal
+SERVER COMMAND:[23:10:33] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 rainbow
+SERVER COMMAND:[23:10:42] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 snowblast
+SERVER COMMAND:[23:10:49] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 halo
+SERVER COMMAND:[23:10:56] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 soulwell
+SERVER COMMAND:[23:11:41] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 lovewell
+SERVER COMMAND:[23:11:59] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 witchtornado
+SERVER COMMAND:[23:12:20] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 gems
+SERVER COMMAND:[23:12:48] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 halloween
+SERVER COMMAND:[23:13:00] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 witchtornado
+SERVER COMMAND:[23:14:08] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 soulwell
+SERVER COMMAND:[23:14:21] [Server thread/INFO]: G3R_Bukkit issued server command: /bp set test4 bigsoulwell
+SERVER COMMAND:[23:14:58] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[12:00:21] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[12:00:27] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[16:58:11] [Server thread/INFO]: G3R_Bukkit issued server command: /Day
+SERVER COMMAND:[16:58:16] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[17:03:57] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[17:04:06] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[17:04:07] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[17:12:10] [Server thread/INFO]: G3R_Bukkit issued server command: /heal
+SERVER COMMAND:[21:03:26] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[21:04:39] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[21:08:43] [Server thread/INFO]: G3R_Bukkit issued server command: /Day
+SERVER COMMAND:[21:20:05] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[21:36:20] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[12:09:07] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[12:09:08] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[12:13:10] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:56:16] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[22:06:48] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[20:43:34] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:43:42] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:43:43] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:43:43] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:43:44] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:45:58] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag set explosion true
+SERVER COMMAND:[20:47:27] [Server thread/INFO]: G3R_Bukkit issued server command: /p reset
+SERVER COMMAND:[20:47:44] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:45] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:45] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:46] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:46] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:47] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:48] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:48] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:49] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:50] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:51] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:51] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:52] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:53] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:53] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:54] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:55] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:56] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:56] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:57] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:58] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:58] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:59] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:47:59] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:48:00] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:48:00] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:48:01] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:48:01] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:48:02] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:48:04] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[20:50:01] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[20:50:48] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[20:51:16] [Server thread/INFO]: G3R_Bukkit issued server command: /p reset
+SERVER COMMAND:[20:51:29] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb1
+SERVER COMMAND:[20:52:09] [Server thread/INFO]: G3R_Bukkit issued server command: //expand vert
+SERVER COMMAND:[20:52:11] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[20:52:16] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[20:52:33] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[20:56:49] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[20:57:37] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag list
+SERVER COMMAND:[21:00:36] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[21:01:11] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:13:05] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[21:44:39] [Server thread/INFO]: G3R_Bukkit issued server command: /pl
+SERVER COMMAND:[21:44:47] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[10:24:01] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:24:02] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:26:10] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:26:12] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:26:51] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:38:47] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[10:38:52] [Server thread/INFO]: G3R_Bukkit issued server command: /playerskull
+SERVER COMMAND:[12:29:53] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[12:43:13] [Server thread/INFO]: G3R_Bukkit issued server command: //set water
+SERVER COMMAND:[12:47:13] [Server thread/INFO]: G3R_Bukkit issued server command: /p trust Hertzhaft
+SERVER COMMAND:[12:50:23] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[12:50:48] [Server thread/INFO]: G3R_Bukkit issued server command: /tphere Hertzhaft
+SERVER COMMAND:[12:55:30] [Server thread/INFO]: G3R_Bukkit issued server command: /invsee Hertzhaft
+SERVER COMMAND:[12:55:37] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[12:56:36] [Server thread/INFO]: G3R_Bukkit issued server command: /firework fire 300
+SERVER COMMAND:[12:58:41] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[12:58:43] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[13:02:51] [Server thread/INFO]: G3R_Bukkit issued server command: /p d
+SERVER COMMAND:[13:02:55] [Server thread/INFO]: G3R_Bukkit issued server command: /p del
+SERVER COMMAND:[14:31:06] [Server thread/INFO]: G3R_Bukkit issued server command: /warp Farmwelt
+SERVER COMMAND:[14:35:23] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[14:36:15] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[16:51:21] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[16:51:27] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[17:11:54] [Server thread/INFO]: G3R_Bukkit issued server command: /speed
+SERVER COMMAND:[17:45:23] [Server thread/INFO]: G3R_Bukkit issued server command: /ec
+SERVER COMMAND:[17:46:01] [Server thread/INFO]: G3R_Bukkit issued server command: /p c
+SERVER COMMAND:[17:47:33] [Server thread/INFO]: G3R_Bukkit issued server command: /announce Achtung Kurzer Lag
+SERVER COMMAND:[17:47:40] [Server thread/INFO]: G3R_Bukkit issued server command: /announce d
+SERVER COMMAND:[17:48:16] [Server thread/INFO]: G3R_Bukkit issued server command: //expand vert
+SERVER COMMAND:[17:48:28] [Server thread/INFO]: G3R_Bukkit issued server command: //set 0
+SERVER COMMAND:[17:49:35] [Server thread/INFO]: G3R_Bukkit issued server command: //set water
+SERVER COMMAND:[17:50:00] [Server thread/INFO]: G3R_Bukkit issued server command: /up
+SERVER COMMAND:[17:50:07] [Server thread/INFO]: G3R_Bukkit issued server command: /up 1
+SERVER COMMAND:[17:50:41] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[18:18:34] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[18:22:29] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[18:22:31] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[18:32:01] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[18:33:01] [Server thread/INFO]: G3R_Bukkit issued server command: /ec Hertzhaft
+SERVER COMMAND:[18:40:22] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[18:50:41] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[18:53:21] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[19:25:15] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[19:27:39] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[19:27:58] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[19:28:05] [Server thread/INFO]: G3R_Bukkit issued server command: /announce test
+SERVER COMMAND:[19:28:10] [Server thread/INFO]: G3R_Bukkit issued server command: /luckyblock give
+SERVER COMMAND:[19:36:23] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[19:36:36] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag set explosion true
+SERVER COMMAND:[19:39:43] [Server thread/INFO]: G3R_Bukkit issued server command: //Set 0
+SERVER COMMAND:[19:39:59] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[19:47:22] [Server thread/INFO]: G3R_Bukkit issued server command: /p reset
+SERVER COMMAND:[19:47:33] [Server thread/INFO]: G3R_Bukkit issued server command: /p reset
+SERVER COMMAND:[19:48:23] [Server thread/INFO]: G3R_Bukkit issued server command: //expand vert
+SERVER COMMAND:[19:48:40] [Server thread/INFO]: G3R_Bukkit issued server command: //replace dirt water
+SERVER COMMAND:[19:48:47] [Server thread/INFO]: G3R_Bukkit issued server command: //replace grass water
+SERVER COMMAND:[19:49:18] [Server thread/INFO]: G3R_Bukkit issued server command: //replace dirt water
+SERVER COMMAND:[19:50:20] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 10
+SERVER COMMAND:[19:50:45] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[19:50:47] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 3
+SERVER COMMAND:[20:05:15] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[20:05:19] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[20:05:24] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[20:07:13] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[20:10:01] [Server thread/INFO]: G3R_Bukkit issued server command: //set 0
+SERVER COMMAND:[20:22:34] [Server thread/INFO]: G3R_Bukkit issued server command: /p h
+SERVER COMMAND:[20:31:23] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[20:41:07] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:41:22] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:41:52] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:42:31] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:43:06] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:43:19] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:43:23] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:43:29] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:43:38] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:43:48] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[20:43:58] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:20:22] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[21:20:23] [Server thread/INFO]: G3R_Bukkit issued server command: /fly
+SERVER COMMAND:[21:21:27] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[21:29:30] [Server thread/INFO]: G3R_Bukkit issued server command: /Day
+SERVER COMMAND:[21:40:02] [Server thread/INFO]: G3R_Bukkit issued server command: /Day
+SERVER COMMAND:[21:52:21] [Server thread/INFO]: G3R_Bukkit issued server command: //set dirt
+SERVER COMMAND:[21:52:58] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[21:56:25] [Server thread/INFO]: G3R_Bukkit issued server command: //set 0
+SERVER COMMAND:[21:56:34] [Server thread/INFO]: G3R_Bukkit issued server command: //set 0
+SERVER COMMAND:[21:59:29] [Server thread/INFO]: G3R_Bukkit issued server command: //set water
+SERVER COMMAND:[21:59:32] [Server thread/INFO]: G3R_Bukkit issued server command: //set water
+SERVER COMMAND:[21:59:35] [Server thread/INFO]: G3R_Bukkit issued server command: //set water
+SERVER COMMAND:[21:59:37] [Server thread/INFO]: G3R_Bukkit issued server command: //set water
+SERVER COMMAND:[22:04:32] [Server thread/INFO]: G3R_Bukkit issued server command: //replace dirt a
+SERVER COMMAND:[22:13:25] [Server thread/INFO]: G3R_Bukkit issued server command: //set cactus
+SERVER COMMAND:[10:24:36] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[10:27:15] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[10:27:28] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[10:29:06] [Server thread/INFO]: G3R_Bukkit issued server command: /p reset
+SERVER COMMAND:[10:29:21] [Server thread/INFO]: G3R_Bukkit issued server command: /p reset
+SERVER COMMAND:[10:29:38] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 3
+SERVER COMMAND:[10:35:21] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:58:36] [Server thread/INFO]: G3R_Bukkit issued server command: /p clear
+SERVER COMMAND:[10:59:01] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[10:59:03] [Server thread/INFO]: G3R_Bukkit issued server command: /p i
+SERVER COMMAND:[11:25:49] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[11:30:55] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 1
+SERVER COMMAND:[13:41:47] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 3
+SERVER COMMAND:[13:41:50] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[13:59:35] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[15:17:44] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[15:24:27] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[15:24:37] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 180
+SERVER COMMAND:[15:24:42] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:24:58] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[15:25:02] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:25:11] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[15:28:07] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[15:28:11] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[15:28:16] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:28:29] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[15:29:15] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:29:57] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[15:30:06] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[15:30:10] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:30:58] [Server thread/INFO]: G3R_Bukkit issued server command: //copy
+SERVER COMMAND:[15:31:02] [Server thread/INFO]: G3R_Bukkit issued server command: //rotate 90
+SERVER COMMAND:[15:31:06] [Server thread/INFO]: G3R_Bukkit issued server command: //paste
+SERVER COMMAND:[15:31:15] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[15:31:17] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[16:09:20] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[16:24:49] [Server thread/INFO]: G3R_Bukkit issued server command: /tphere Hertzhaft
+SERVER COMMAND:[16:26:36] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[16:36:02] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[18:39:47] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[18:59:55] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag set pve true
+SERVER COMMAND:[19:00:46] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag set pve none
+SERVER COMMAND:[19:00:50] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag set pve false
+SERVER COMMAND:[19:01:02] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag unset pve
+SERVER COMMAND:[19:01:09] [Server thread/INFO]: G3R_Bukkit issued server command: /p flag remove pve
+SERVER COMMAND:[19:03:13] [Server thread/INFO]: G3R_Bukkit issued server command: /hat
+SERVER COMMAND:[20:42:34] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[20:44:16] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[21:13:15] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[21:37:56] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[21:37:58] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[22:17:44] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[22:48:07] [Server thread/INFO]: G3R_Bukkit issued server command: /meldungen
+SERVER COMMAND:[12:34:20] [Server thread/INFO]: G3R_Bukkit issued server command: /restart
+SERVER COMMAND:[18:02:55] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[18:02:58] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[18:03:45] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[18:04:13] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[18:48:21] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[19:11:24] [Server thread/INFO]: G3R_Bukkit issued server command: /mysqlplayerdatabridge:mpdb reload
+SERVER COMMAND:[19:23:13] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb
+SERVER COMMAND:[19:23:34] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb reload
+SERVER COMMAND:[19:24:26] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb
+SERVER COMMAND:[19:24:34] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb inv Hertzhaft
+SERVER COMMAND:[19:25:13] [Server thread/INFO]: G3R_Bukkit issued server command: /Day
+SERVER COMMAND:[19:26:15] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb saveandkick
+SERVER COMMAND:[19:32:23] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[19:51:05] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb
+SERVER COMMAND:[20:00:49] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[20:00:53] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[20:00:58] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb reload
+SERVER COMMAND:[20:37:24] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb
+SERVER COMMAND:[21:04:23] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[21:04:43] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[21:04:45] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[01:36:14] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[01:36:16] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[01:54:16] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[01:54:26] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[01:57:54] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[09:56:32] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp lobby
+SERVER COMMAND:[09:56:39] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp CB1
+SERVER COMMAND:[09:56:47] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[09:56:52] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:00:29] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[10:00:41] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[10:06:51] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[10:06:53] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[10:07:39] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb1
+SERVER COMMAND:[10:07:43] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[10:10:08] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[10:10:51] [Server thread/INFO]: G3R_Bukkit issued server command: /fly
+SERVER COMMAND:[10:13:25] [Server thread/INFO]: G3R_Bukkit issued server command: /speed 3
+SERVER COMMAND:[10:14:32] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[10:16:41] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 0
+SERVER COMMAND:[10:17:14] [Server thread/INFO]: G3R_Bukkit issued server command: /gm 1
+SERVER COMMAND:[10:36:53] [Server thread/INFO]: G3R_Bukkit issued server command: /meldungen
+SERVER COMMAND:[10:36:55] [Server thread/INFO]: G3R_Bukkit issued server command: /meldung
+SERVER COMMAND:[10:46:21] [Server thread/INFO]: G3R_Bukkit issued server command: /meldung
+SERVER COMMAND:[10:46:39] [Server thread/INFO]: G3R_Bukkit issued server command: /meldungen
+SERVER COMMAND:[10:46:59] [Server thread/INFO]: G3R_Bukkit issued server command: /meldungen
+SERVER COMMAND:[11:05:47] [Server thread/INFO]: G3R_Bukkit issued server command: /meldungen
+SERVER COMMAND:[11:06:06] [Server thread/INFO]: G3R_Bukkit issued server command: /meldungen
+SERVER COMMAND:[11:07:58] [Server thread/INFO]: G3R_Bukkit issued server command: /meldungen
+SERVER COMMAND:[12:00:35] [Server thread/INFO]: G3R_Bukkit issued server command: /ccfeatures version
+SERVER COMMAND:[14:57:44] [Server thread/INFO]: G3R_Bukkit issued server command: /mvtp cb2
+SERVER COMMAND:[14:57:51] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[14:59:25] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:00:14] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:02:47] [Server thread/INFO]: G3R_Bukkit issued server command: /nick
+SERVER COMMAND:[15:11:11] [Server thread/INFO]: G3R_Bukkit issued server command: /mpdb inv r2d2
+SERVER COMMAND:[15:20:57] [Server thread/INFO]: G3R_Bukkit issued server command: /v
+SERVER COMMAND:[15:25:51] [Server thread/INFO]: G3R_Bukkit issued server command: //set 98
+SERVER COMMAND:[15:26:02] [Server thread/INFO]: G3R_Bukkit issued server command: //set 98
+SERVER COMMAND:[15:26:31] [Server thread/INFO]: G3R_Bukkit issued server command: //set 98
+SERVER COMMAND:[15:41:58] [Server thread/INFO]: G3R_Bukkit issued server command: /searchitem
+SERVER COMMAND:[15:42:04] [Server thread/INFO]: G3R_Bukkit issued server command: /searchitem 2
+SERVER COMMAND:[15:46:53] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[15:47:22] [Server thread/INFO]: G3R_Bukkit issued server command: /V
+SERVER COMMAND:[15:47:24] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[15:47:47] [Server thread/INFO]: G3R_Bukkit issued server command: /vote
+SERVER COMMAND:[15:50:34] [Server thread/INFO]: G3R_Bukkit issued server command: /sudo Hertzhaft vote
+SERVER COMMAND:[16:13:39] [Server thread/INFO]: G3R_Bukkit issued server command: /vote
+SERVER COMMAND:[16:14:52] [Server thread/INFO]: G3R_Bukkit issued server command: /vote
+SERVER COMMAND:[16:16:43] [Server thread/INFO]: G3R_Bukkit issued server command: /playerlist
+SERVER COMMAND:[16:39:55] [Server thread/INFO]: G3R_Bukkit issued server command: /tp Hertzhaft
+SERVER COMMAND:[19:13:34] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
+SERVER COMMAND:[19:13:36] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[17:11:56] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[17:24:40] [Server thread/INFO]: G3R_Bukkit issued server command: //replace air tnt
+SERVER COMMAND:[17:25:34] [Server thread/INFO]: G3R_Bukkit issued server command: //replace air tnt
+SERVER COMMAND:[17:26:27] [Server thread/INFO]: G3R_Bukkit issued server command: //replace air tnt
+SERVER COMMAND:[17:27:14] [Server thread/INFO]: G3R_Bukkit issued server command: //replace air tnt
+SERVER COMMAND:[17:29:43] [Server thread/INFO]: G3R_Bukkit issued server command: //replace air tnt
+SERVER COMMAND:[17:32:04] [Server thread/INFO]: G3R_Bukkit issued server command: /tps
+SERVER COMMAND:[17:32:38] [Server thread/INFO]: G3R_Bukkit issued server command: /p clear
+SERVER COMMAND:[17:33:31] [Server thread/INFO]: G3R_Bukkit issued server command: /top
+SERVER COMMAND:[17:33:45] [Server thread/INFO]: G3R_Bukkit issued server command: /top
+SERVER COMMAND:[19:38:09] [Server thread/INFO]: G3R_Bukkit issued server command: /day
+SERVER COMMAND:[19:41:20] [Server thread/INFO]: G3R_Bukkit issued server command: //walls stone
+SERVER COMMAND:[19:43:39] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[19:43:40] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[19:43:41] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[19:43:42] [Server thread/INFO]: G3R_Bukkit issued server command: //undo
+SERVER COMMAND:[20:25:51] [Server thread/INFO]: G3R_Bukkit issued server command: /sun
